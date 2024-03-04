@@ -78,4 +78,8 @@ void List::remove(int index){
 		current->next = hereN->next;
 		delete hereN;
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e971e248fcd89278178cbfb188572b38caef7f0b
